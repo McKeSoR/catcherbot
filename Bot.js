@@ -7,7 +7,6 @@ const uid = require("./base/uid.json");
 const tokens = require("./base/tokens.json");
 const all = require("./base/all.json");  
 const fetch = require("node-fetch")
-const fs = require("fs")
  
 /*==========================================================================================================*/
 setInterval(function(){
