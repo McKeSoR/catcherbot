@@ -1,0 +1,26 @@
+{
+  "name": "catcherbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McKeSoR/catcherbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/McKeSoR/catcherbot/issues"
+  },
+  "homepage": "https://github.com/McKeSoR/catcherbot#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "server.js": "^1.0.0",
+    "vk-io": "^4.4.0",
+    "vk.js": "^0.1.1"
+  }
+}

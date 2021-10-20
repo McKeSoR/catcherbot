@@ -1,0 +1,74 @@
+{
+	"1": {
+		"users": {
+			"1": {
+				"ban": false,
+				"gold": 2234,
+				"donate": 0,
+				"card": 1,
+				"level": 1,
+				"exs": 20,
+				"admin": 4,
+				"id": 534254074,
+				"hero": {
+					"id": "1",
+					"name": "Маг",
+					"prefix": "Catcher",
+					"hp": 0,
+					"zashita": 0,
+					"ataka": 0,
+					"kr_udar": 0,
+					"navik": {
+						"id": false,
+						"name": false,
+						"count": false
+					},
+					"up": false,
+					"gun": false
+				},
+				"res": {
+					"tree": 234,
+					"stone": 0
+				},
+				"objects": {
+					"lesopilka": 0,
+					"kamenolom": 0,
+					"gold": 0,
+					"hp": false,
+					"zashita": false,
+					"ataka": false,
+					"kr_udar": false
+				},
+				"limits": {
+					"stroyka": false,
+					"id": false,
+					"bonus": false,
+					"war": false,
+					"les": false
+				},
+				"msg": 0,
+				"refka": {
+					"activ": false,
+					"level": 1,
+					"lvl_up": 5,
+					"users": {},
+					"dohod": 10,
+					"count": 0,
+					"bonus": {
+						"tree": 100,
+						"stone": 50,
+						"gold": 10
+					},
+					"cod": 33187
+				},
+				"clan": false,
+				"registr": "actived",
+				"vip": 0,
+				"rtime": "15:41:51 | 20:10:2018"
+			}
+		},
+		"number": 1,
+		"name": false,
+		"imperator": true
+	}
+}
