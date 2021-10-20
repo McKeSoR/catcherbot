@@ -6,7 +6,6 @@ const acc = require("./base/acc.json");
 const uid = require("./base/uid.json");
 const tokens = require("./base/tokens.json");
 const all = require("./base/all.json");  
-const fetch = require("node-fetch")
  
 /*==========================================================================================================*/
 setInterval(function(){
